@@ -9,3 +9,5 @@ The goal is to try this with CNN
 [CNN in R (example)](https://www.r-bloggers.com/convolutional-neural-networks-in-r/)
 
 ![Well](images/facies.jpeg)
+
+Work in progress
